@@ -11,6 +11,7 @@ import java.security.PublicKey;
  */
 
 public class Province extends DataSupport{
+
     private int id;
 
     private String provinceName;
